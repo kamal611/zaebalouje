@@ -1,0 +1,6 @@
+
+services:
+  - type: worker
+    name: super-flips-bot-fixed
+    env: docker
+    plan: free
