@@ -1,0 +1,5 @@
+services:
+  - type: worker
+    name: direct-test-flips-bot
+    env: docker
+    plan: free
